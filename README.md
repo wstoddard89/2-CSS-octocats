@@ -110,3 +110,6 @@ Let's duplicate an image using a given HTML page, [`index.html`](index.html), an
 
 - [Octocat Layout Image](octocat.png)
 - [The Octodex](http://octodex.github.com)
+
+## Practice Flexbox
+- [Flexbox Froggy](https://flexboxfroggy.com)
